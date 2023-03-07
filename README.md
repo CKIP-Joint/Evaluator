@@ -14,6 +14,3 @@ We follow [HELM](https://github.com/stanford-crfm/helm) to build our evaluators.
 - TCIC: Traditional Chinese Idiom Cloze. Please refer to our [paper]()
 - TCWSC:  Traditional Chinese Winograd Schema Challenge. Please refer to our [paper]() 
 - TTQA: Taiwan Triva Question Answering. Please refer to our [paper]() 
-
-
-test
