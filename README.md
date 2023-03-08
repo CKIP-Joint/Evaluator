@@ -1,4 +1,4 @@
-# Traditional Chinese evaluation suite
+# Traditional Chinese Evaluation Suite
 This evaluation suite is intended to measure the knowledge and skills in Traditional Chinese of Language Models. For this purpose, MediaTek Research introduced two completely new evaluation tasks (TTQA and TCIC). In addition, this evaluation suite includes three existing Traditional Chinese evaluation tasks (DRCD, FGC, FLUD). For ease of use, we follow the convention of [HELM](https://github.com/stanford-crfm/helm) to package these evaluation datasets into runnable evaluation routines.  
 
 The **`crfm-helm`** Python package contains code used originaly in the **Holistic Evaluation of Language Models** project ([paper](https://arxiv.org/abs/2211.09110), [website](https://crfm.stanford.edu/helm/v1.0/)) by [Stanford CRFM](https://crfm.stanford.edu/). 
