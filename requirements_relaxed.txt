@@ -1,0 +1,52 @@
+# Development
+pytest
+black
+mypy
+pre-commit
+flake8
+
+# Common
+zstandard
+tqdm
+pyhocon
+dacite
+
+# Proxy
+bottle
+gunicorn
+Mako
+# sqlitedict==2.0.0 is slow! https://github.com/RaRe-Technologies/sqlitedict/issues/152
+# Keep the version at 1.7.0.
+sqlitedict~=1.7.0
+pymongo
+retrying
+websocket-client # For Anthropic
+openai
+transformers  # For HuggingFace tokenizer
+icetk
+gevent
+
+# Scenarios
+datasets # For math scenarios
+gdown
+jsonlines # Not really needed
+sympy  # For math scenarios
+sentencepiece
+numba
+
+# Metrics
+importlib-resources
+nltk
+scipy
+uncertainty-calibration
+rouge-score
+pyext
+sacrebleu
+# pytrec_eval: this fails
+# Work around https://github.com/p-lambda/verified_calibration/issues/11
+# TODO: Remove after this issue is resolved
+spacy
+summ-eval
+
+# Model
+accelerate
