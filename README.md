@@ -5,7 +5,7 @@ The **`crfm-helm`** Python package contains code used originaly in the **Holisti
 
 To get started with **`crfm-helm`**, refer to [the documentation on Read the Docs](https://crfm-helm.readthedocs.io/) for how to install and run the package.
 
-## Evaluation datasets for Traditional Chinese
+## Included Evaluation Datasets for Traditional Chinese
 - TTQA: Taiwan Trivia Question Answering. Please refer to [paper]() 
 - TCIC: Traditional Chinese Idiom Cloze. Please refer to [paper]()
 - DRCD: Please refer to [DRCD](https://github.com/DRCKnowledgeTeam/DRCD)
