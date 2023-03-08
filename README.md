@@ -1,5 +1,5 @@
 # MediaTek Research Traditional Chinese evaluation suite
-This evaluation suite is intended to measure the knowledge and skill in Traditional Chinese of AI models. There is one completely new test, TTIC, proposed by MediaTek Research. In addition, there are two tests translated from Simplified Chinese, TCIC and TCWSC, and three existing tests. For ease of use, we follow the convention of [HELM](https://github.com/stanford-crfm/helm) to package these evaluation datasets into runnable evaluation routines.  
+This evaluation suite is intended to measure the knowledge and skill in Traditional Chinese of AI models. There are two completely new tests, TTQA and TCIC, proposed by MediaTek Research. In addition, there is one test translated from Simplified Chinese, TCWSC, and three existing Traditional Chinese tests. For ease of use, we follow the convention of [HELM](https://github.com/stanford-crfm/helm) to package these evaluation datasets into runnable evaluation routines.  
 
 ## Installation
 1. clone [HELM](https://github.com/stanford-crfm/helm)
